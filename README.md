@@ -7,5 +7,9 @@ In this project I used Java to build the application, Firebase as Real-time data
  
 <img src="images/splash.jpg" width="170" align="middle" > 
 The Splash Screen of our app Smart Guide. This screen will appear for two seconds, then we will go to the login screen
+
 <img src="images/signup.jpg" width="170" align="middle" > 
 the signup page of our app Smart Guide. The user can’t sign up without filling the whole form. The email will go through a verification phase from the firebase. If the user already has an account, they can click the Login button to redirect them to the login page. At last, the user can immediately sign in without even signing up by using the sign in with Gmail button.
+
+<img src="images/login.jpg" width="170" align="middle" > 
+the login page of the Smart Guide app. The user can get into the app in two ways the first is by logging in with his created account through the sign-up page (shown above) or immediately by signing in with his Gmail. If he already has an account but forgot his password, he can use his email that’s associated with his account to get a reset password from the firebase through a pop-up 
