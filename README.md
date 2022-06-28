@@ -5,5 +5,5 @@ In this project I used Java to build the application, Firebase as Real-time data
  # Smart Guide Screens
  Here I’ll specify most pages in Smart Guide with each of its features.
  
-<img src="images/splash.jpg" width="170" align="middle" style=" .border{ border-style:solid; border-color:#287EC7;}" class="border"> 
+<img src="images/splash.jpg" width="170" align="middle" > 
 
