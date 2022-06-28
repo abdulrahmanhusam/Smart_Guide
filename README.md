@@ -4,4 +4,4 @@ This project makes touristic places searching services easier than the tradition
 In this project I used Java to build the application, Firebase as Real-time database, and XML as a design language.   
  # Smart Guide Screens
  Here I’ll specify most pages in Smart Guide with each of its features.
- <img src="images/splash.jpg" >
+ <img src="images/splash.jpg" width="150" >
